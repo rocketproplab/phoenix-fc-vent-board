@@ -1,2 +1,2 @@
-# phoenix-fc-valve-board
+# phoenix-fc-vent-board
 Phoenix Flight Computer: vent board (#3)
