@@ -1,6 +1,9 @@
 # phoenix-fc-vent-board
 Phoenix Flight Computer: vent board (#3)
 
+## Last updated
+08/31/2026
+
 ## ESP32 DevKit / ESP32-WROOM-32 — Ground-Station Actuator
 
 ### MOSFET Driver
